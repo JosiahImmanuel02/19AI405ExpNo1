@@ -45,7 +45,6 @@ DATE:27-10-2026
 
 **Program:**
 ``
-
 import random
 class MedicinePrescribingAgent:
     def __init__(self):
