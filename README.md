@@ -46,7 +46,7 @@ DATE:27-10-2026
 **Program:**
 
 
-``
+```
 import random
 class MedicinePrescribingAgent:
     def __init__(self):
@@ -89,9 +89,10 @@ agent = MedicinePrescribingAgent()
 agent.run()
 
 
-``
+```
 **Output:**
 
+<img width="1906" height="992" alt="Screenshot 2026-10-27 084114" src="https://github.com/user-attachments/assets/13b7ef95-42c4-4df4-81ab-67e9d6306b4b" />
 
 
 
